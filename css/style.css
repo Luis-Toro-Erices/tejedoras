@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    body *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+    .parrafo{
+        font-weight: 300;
+    }
+
+/* INICIO NAVEGACION*/
+
+.fondo-navbar {
+    background-color:#ffb380;
+}
+.threed:hover
+{
+box-shadow:
+1px 1px #ff6d00,
+2px 2px #ff6d00,
+3px 3px #ff6d00;
+-webkit-transform: translateX(-10px);
+transform: translateX(-10px);
+transition: all 0.2s ease;
+}
+
+.nav-link{
+    color: #ffffff;
+}
+/* FINAL NAVEGACION*/
+
+
+
+/* INICIO HEADER*/
+.carrusel{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 100%;
+    background-color: #ffb380;
+}
+.sliders{
+   height: 100%;
+}
+.image-container {
+    width: 100%;
+    position: relative; /* Needed to position the cutout text in the middle of the image */
+    height: 100%; /* Some height */
+  }
+
+  /* FIN HEADER*/
+
+ 
+  .cards__lana{
+      background-color: #ffb380;
+      width: 100%;
+  }
