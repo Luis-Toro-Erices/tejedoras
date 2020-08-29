@@ -66,3 +66,8 @@ transition: all 0.2s ease;
       background-color: #ffb380;
       width: 100%;
   }
+
+  .fas{
+      color: #ffffff;
+      width: 20px;
+  }
